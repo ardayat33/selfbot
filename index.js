@@ -3361,7 +3361,7 @@ uptime = process.uptime()
 const timestampi = speed();
 const latensip = speed() - timestampi
 			             anjink =`◪ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲
-├ *Nama bot : ikyy*
+├ *Nama bot : Asisten Arjuna*
 ├ *Server :* _*Baileys*_
 ├ *Runtime :*
 ├   \`\`\`${kyun(uptime)}\`\`\`
